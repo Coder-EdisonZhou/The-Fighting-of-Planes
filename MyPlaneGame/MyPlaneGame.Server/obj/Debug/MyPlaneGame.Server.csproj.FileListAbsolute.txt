@@ -1,8 +1,0 @@
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\bin\Debug\MyPlaneGame.Server.exe
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\bin\Debug\MyPlaneGame.Server.pdb
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.csprojResolveAssemblyReference.cache
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.Properties.Resources.resources
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.csproj.GenerateResource.Cache
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.exe
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.pdb
-E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Server\obj\Debug\MyPlaneGame.Server.ServerForm.resources
