@@ -1,0 +1,9 @@
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\bin\Debug\MyPlaneGame.Client.exe
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\bin\Debug\MyPlaneGame.Client.pdb
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.MainForm.resources
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.Properties.Resources.resources
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.csproj.GenerateResource.Cache
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.exe
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.pdb
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\bin\Debug\MyPlaneGame.Client.exe.config
+E:\Project Files\DotNet Projects\MyPlaneGame\MyPlaneGame.Client\obj\Debug\MyPlaneGame.Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyPlaneGame.Client.BoomBase" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\BoomBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.BoomEnemy" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAABAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Entity\BoomEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.BoomPlayer" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\BoomPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.BulletBase" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\BulletBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.BulletEnemy" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\BulletEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.BulletPlayer" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\BulletPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.GameBackground" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entity\GameBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.GameObject" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJIAAAgAgAAAAAEABAAAAAAAAAAAAAAABYAA=</HashCode>
+      <FileName>Entity\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.GameTitle" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entity\GameTitle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.PlaneBase" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\PlaneBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.PlaneEnemy" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAIAAAgAAAAAAQAASAAEEAAAAAgQAAAAAAAg=</HashCode>
+      <FileName>Entity\PlaneEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.PlanePlayer" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAABAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Entity\PlanePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.SingleObject">
+    <Position X="20.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAgAAAEgIAgACAAgABAAAAAAABAIgAQAAkAA=</HashCode>
+      <FileName>Entity\SingleObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.MainForm" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>moAAAIkABCCAAAAAArGQUHICAIAAQAAAAIQBAAQCAAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.Program" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.Properties.Resources" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACDAAJQQAKAIxKIAAJNeAQBAQCMAiEQAJEgAQACIYI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlaneGame.Client.Properties.Settings" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyPlaneGame.Client.Direction" Collapsed="true">
+    <Position X="18.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Entity\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
